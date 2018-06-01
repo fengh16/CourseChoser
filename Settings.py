@@ -15,7 +15,7 @@ mChooseWebSiteRX = mUrlBase + "?m=rxSearch&p_xnxq=" + mNowState + "&tokenPriFlag
 mChosenCourse = mUrlBase + "?m=kbSearch&p_xnxq=" + mNowState + "&pathContent=%D2%BB%BC%B6%D1%A1%BF%CE%BF%CE%B1%ED"
 mCheckLeft = mUrlBase + "?m=xkqkSearch&p_xnxq=" + mNowState
 mWebDecoding = "gb2312"
-mCaptchaPath = "C:\\Users\\Koala_FH\\Desktop\\captchar\\pic.jpeg"
+mCaptchaPath = "C:\\Users\\username\\Desktop\\captchar\\pic.jpeg"
 mCode = ""
 content = ""
 token = ""
